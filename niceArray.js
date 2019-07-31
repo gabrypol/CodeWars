@@ -23,4 +23,7 @@ function isNice(arr) {
     return true;
 }
 
-console.log(isNice([2,10,9]))
+
+console.log(isNice([2,10,9,3]))
+console.log(isNice([3,4,5,7]))
+console.log(isNice([]))
