@@ -7,13 +7,8 @@
 // Given a year, return the century it is in.
 
 function century(year) {
-  let century;
-  if (year % 100 !== 0) {
-    century = Math.floor(year / 100);
-    return century + 1;
-  } else {
-    return Math.floor(year / 100);
-  }
+  let century = Math.floor(year / 100);
+  return year % 100 !== 0 ? century + 1: century; 
 }
 
 console.log('year 100', century(100));
