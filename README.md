@@ -2,6 +2,7 @@
 * [Century From Year](./centuryFromYear.js) - [8 kyu](https://www.codewars.com/kata/century-from-year/)
 * [Expressions Matter](./expressionsMatter.js) - [8 kyu](https://www.codewars.com/kata/expressions-matter/)
 * [Nice Array](./niceArray.js) - [7 kyu](https://www.codewars.com/kata/nice-array/)
+* [Remove the minimum](./removeTheMinimum.js) - [7 kyu](https://www.codewars.com/kata/remove-the-minimum/)
 * [Reversed Words](./reversedWords.js) - [8 kyu](https://www.codewars.com/kata/reversed-words/)
 * [Sum Mixed Array](sumMixedArray.js) - [8 kyu](https://www.codewars.com/kata/sum-mixed-array/)
 
