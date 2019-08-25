@@ -1,6 +1,7 @@
 # Problems solved so far
 
 ## 6 kyu:
+* [Counting Duplicates](./countingDuplicates.js) - [Read the instructions](https://www.codewars.com/kata/counting-duplicates/)
 * [The Supermarket Queue](./theSupermarketQueue.js) - [Read the instructions](https://www.codewars.com/kata/the-supermarket-queue/)
 
 ## 7 kyu:
