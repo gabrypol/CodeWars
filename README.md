@@ -2,6 +2,7 @@
 
 ## 6 kyu:
 * [Counting Duplicates](./countingDuplicates.js) - [Read the instructions](https://www.codewars.com/kata/counting-duplicates/)
+* [String transformer](./stringTransformer.js) - [Read the instructions](https://www.codewars.com/kata/string-transformer/)
 * [The Supermarket Queue](./theSupermarketQueue.js) - [Read the instructions](https://www.codewars.com/kata/the-supermarket-queue/)
 
 ## 7 kyu:
