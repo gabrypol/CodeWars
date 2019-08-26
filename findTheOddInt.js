@@ -20,9 +20,9 @@ function findOdd(arr) {
     });
 
     let result;
-    arrOccurences.forEach(element => {
+    arrOccurences.forEach((element, index) => {
         if(element % 2 !== 0) {
-            result = arrElement[arrOccurences.indexOf(element)];
+            result = arrElement[index];
         }
     });
     return result;
