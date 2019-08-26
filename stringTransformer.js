@@ -7,9 +7,10 @@
 // Note: You will have to handle multiple spaces, and leading/trailing spaces.
 
 function stringTransformer(str) {
-    arrChars = str.split('');
+    let arrChars = str.split('');
     let newArr = [];
     arrChars.forEach(element => {
+        let elementChanged;
         if(element.toUpperCase() === element) {
             elementChanged = element.toLowerCase();
         } else if (element.toLowerCase() === element) {
