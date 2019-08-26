@@ -8,6 +8,7 @@
 
 ## 7 kyu:
 * [Nice Array](./niceArray.js) - [Read the instructions](https://www.codewars.com/kata/nice-array/)
+* [Powers of 3](./powersOf3.js) - [Read the instructions](https://www.codewars.com/kata/powers-of-3/)
 * [Remove the minimum](./removeTheMinimum.js) - [Read the instructions](https://www.codewars.com/kata/remove-the-minimum/)
 * [Remove the noise from the string](./removeTheNoiseFromTheString.js) - [Read the instructions](https://www.codewars.com/kata/remove-the-noise-from-the-string/)
 
