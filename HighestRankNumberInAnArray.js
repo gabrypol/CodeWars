@@ -18,10 +18,8 @@ highestRank(arr) //=> returns 3
 function highestRank(arr){
     let obj = {};
     // arr.map(number => obj[number] = (obj[number] ? obj[number] + 1 : 1));
-    arr.map(function(number) {
-        return obj[number] = (obj[number] ? obj[number] + 1 : 1);
-    })
-    console.log(obj)
+    arr.map(number => obj[number] = (obj[number] ? obj[number] + 1 : 1));
+
     let mostFrequentNumberOccurrences = 0;
     let mostFrequentNumber;
     for (let num in obj) {
