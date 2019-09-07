@@ -30,8 +30,6 @@ function nextVersion(version){
     }
     return version.join('.');
     
-    console.log(version);
-    
 }
 
 console.log(nextVersion('1.2.3'));
@@ -40,4 +38,3 @@ console.log(nextVersion('1'));
 console.log(nextVersion('1.2.3.4.5.6.7.8'));
 console.log(nextVersion('99.9'));
 
-// node nextVersion.js
