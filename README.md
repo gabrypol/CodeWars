@@ -1,6 +1,7 @@
 # Problems solved so far
 
 ## 6 kyu:
+* [compute cube as sums](./computeCubeAsSums.js) - [Read the instructions](https://www.codewars.com/kata/compute-cube-as-sums/)
 * [Counting Duplicates](./countingDuplicates.js) - [Read the instructions](https://www.codewars.com/kata/counting-duplicates/)
 * [Find the odd int](./findTheOddInt.js) - [Read the instructions](https://www.codewars.com/kata/find-the-odd-int/)
 * [Highest Rank Number in an Array](./HighestRankNumberInAnArray.js) - [Read the instructions](https://www.codewars.com/kata/highest-rank-number-in-an-array/)
