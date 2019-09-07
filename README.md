@@ -3,6 +3,7 @@
 ## 6 kyu:
 * [Counting Duplicates](./countingDuplicates.js) - [Read the instructions](https://www.codewars.com/kata/counting-duplicates/)
 * [Find the odd int](./findTheOddInt.js) - [Read the instructions](https://www.codewars.com/kata/find-the-odd-int/)
+* [Multiples of 3 or 5](./multiplesOf3Or5.js) - [Read the instructions](https://www.codewars.com/kata/multiples-of-3-or-5/)
 * [Next Version](./nextVersion.js) - [Read the instructions](https://www.codewars.com/kata/next-version/)
 * [String transformer](./stringTransformer.js) - [Read the instructions](https://www.codewars.com/kata/string-transformer/)
 * [The Supermarket Queue](./theSupermarketQueue.js) - [Read the instructions](https://www.codewars.com/kata/the-supermarket-queue/)
